@@ -27,7 +27,7 @@
 	
 
 ###**El merge del paso 26, ¿Podría ser fast forward?****¿Por qué?**
-**Sí**, si movemos el puntero **master** a **title**.
+**Sí**, porque los cambios entre ambas ramas son lineares, forman una lista.
 
 ###**¿Qué comando o comandos utilizaste en el paso 27?**
 
